@@ -1,0 +1,6 @@
+{
+  "name": "ZoZo",
+  "description": "Personal fitness unified dashboard for workouts, daily habits, body metrics, and streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
